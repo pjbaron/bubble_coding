@@ -1,0 +1,1527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rad",
+				"radiusy"
+			],
+			[
+				"_r",
+				"_radiusy"
+			],
+			[
+				"r",
+				"radiusy"
+			],
+			[
+				"_ra",
+				"_radiusx"
+			],
+			[
+				"radiu",
+				"radiusx"
+			],
+			[
+				"findBubb",
+				"findBubbleByName"
+			],
+			[
+				"BUbble",
+				"BubbleDraw"
+			],
+			[
+				"_from",
+				"_fromRelative"
+			],
+			[
+				"find",
+				"findMarker"
+			],
+			[
+				"Bubl",
+				"BubbleDraw"
+			],
+			[
+				"bu",
+				"bubbleList"
+			],
+			[
+				"disp",
+				"dispatchList"
+			],
+			[
+				"signals",
+				"signalsAdd"
+			],
+			[
+				"start",
+				"start_count"
+			],
+			[
+				"count",
+				"count_alive"
+			],
+			[
+				"player",
+				"player_explosion"
+			],
+			[
+				"expl",
+				"player_explosion"
+			],
+			[
+				"play",
+				"player_explosion"
+			],
+			[
+				"enem",
+				"enemyUnique"
+			],
+			[
+				"J",
+				"JOIN_GAME"
+			],
+			[
+				"Id",
+				"ID_comms"
+			],
+			[
+				"crou",
+				"crouching"
+			],
+			[
+				"figureC",
+				"figureCrouchZones"
+			],
+			[
+				"figureSt",
+				"figureStandZones"
+			],
+			[
+				"which",
+				"whichSelected"
+			],
+			[
+				"enemy",
+				"enemy_marker"
+			],
+			[
+				"selectSo",
+				"selectSoldierByCharacterIndex"
+			],
+			[
+				"lasts",
+				"lastSelectedSoldier"
+			],
+			[
+				"last",
+				"lastSelectedSoldier"
+			],
+			[
+				"listen",
+				"listeners"
+			],
+			[
+				"sele",
+				"clickSelectSoldier"
+			],
+			[
+				"num",
+				"numberLines"
+			],
+			[
+				"des",
+				"deSerializeList"
+			],
+			[
+				"de",
+				"deSerialize"
+			],
+			[
+				"wea",
+				"Weapon"
+			],
+			[
+				"Key",
+				"KeyCodes"
+			],
+			[
+				"Z",
+				"ZONEID_ARMOUR"
+			],
+			[
+				"zone",
+				"ZONEID_ICONS"
+			],
+			[
+				"Zone",
+				"ZONETYPE_WEAPONS"
+			],
+			[
+				"ZONETYPE",
+				"ZONETYPE_ICONS"
+			],
+			[
+				"ZONE",
+				"ZONEID_ICONS"
+			],
+			[
+				"zonet",
+				"ZONETYPE_BAGS"
+			],
+			[
+				"zon",
+				"ZONEID_ARMOUR"
+			],
+			[
+				"ZONETYP",
+				"ZONETYPE_WEAPONS"
+			],
+			[
+				"zoneTyp",
+				"getZoneType"
+			],
+			[
+				"ZO",
+				"ZONETYPE_ICONS"
+			],
+			[
+				"ZON",
+				"ZONEID_ARMOUR"
+			],
+			[
+				"zoneid",
+				"ZONEID_ICONS_LAST"
+			],
+			[
+				"hovered",
+				"hoveredItem"
+			],
+			[
+				"ICONS",
+				"ICONSPERROW"
+			],
+			[
+				"zonei",
+				"ZONEID_ARMOUR"
+			],
+			[
+				"consum",
+				"consumable"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"small",
+				"smallTextMessage"
+			],
+			[
+				"moused",
+				"mouseDragStart"
+			],
+			[
+				"mouseDr",
+				"mouseDragStart"
+			],
+			[
+				"id",
+				"ID_comms"
+			],
+			[
+				"hover",
+				"hoverInvDown"
+			],
+			[
+				"WAIT_",
+				"WAIT_FOR_IDNET"
+			],
+			[
+				"save",
+				"saveGameDataAsync"
+			],
+			[
+				"asyn",
+				"saveGameDataAsync"
+			],
+			[
+				"LO",
+				"LOAD_AND_WAIT"
+			],
+			[
+				"load",
+				"loadGameDataAsync"
+			],
+			[
+				"ID",
+				"ID_comms"
+			],
+			[
+				"curren",
+				"currentTraining"
+			],
+			[
+				"sol",
+				"selectedSoldier"
+			],
+			[
+				"cnt",
+				"cntrlsTouch"
+			],
+			[
+				"y",
+				"y8_com"
+			],
+			[
+				"opp",
+				"opponentIndex"
+			],
+			[
+				"Map",
+				"MapMoveFlags"
+			],
+			[
+				"lastLi",
+				"lastListenerContinue"
+			],
+			[
+				"lastl",
+				"lastListenerContinue"
+			],
+			[
+				"scr",
+				"scrollDisplayLoc"
+			],
+			[
+				"asy",
+				"asyncComplete"
+			],
+			[
+				"healthba",
+				"healthBarWidth"
+			],
+			[
+				"findSo",
+				"findSoldierByID"
+			],
+			[
+				"check",
+				"checkForInaction"
+			],
+			[
+				"reset",
+				"resetGameData"
+			],
+			[
+				"sold",
+				"soldierName"
+			],
+			[
+				"Se",
+				"SELECT"
+			],
+			[
+				"turnop",
+				"TURN_OPTIONS"
+			],
+			[
+				"TURN_",
+				"TURN_OPTIONS"
+			],
+			[
+				"TURNOP",
+				"TURN_OPTIONS"
+			],
+			[
+				"SHOO",
+				"SHOOT_HEAVY_AP"
+			],
+			[
+				"impac",
+				"impactCallback"
+			],
+			[
+				"impa",
+				"impactContext"
+			],
+			[
+				"imp",
+				"impactCallback"
+			],
+			[
+				"BA",
+				"BAZOOKA_MAX_LAUNCH"
+			],
+			[
+				"Soldier",
+				"SoldierDefinitions"
+			],
+			[
+				"CrouchSh",
+				"CrouchShootBazooka"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"equip",
+				"equipScrollY"
+			],
+			[
+				"mui",
+				"musicOn"
+			],
+			[
+				"buy",
+				"buyOrSellSelected"
+			],
+			[
+				"sideP",
+				"sidePanelCost"
+			],
+			[
+				"sidep",
+				"sidePanelCalibre"
+			],
+			[
+				"side",
+				"sidePanelDamage"
+			],
+			[
+				"shop",
+				"shopSelected"
+			],
+			[
+				"equp",
+				"equipList"
+			],
+			[
+				"mute",
+				"tunesMuted"
+			],
+			[
+				"inter",
+				"intervalStart"
+			],
+			[
+				"Anim",
+				"AnimationManager"
+			],
+			[
+				"separ",
+				"separateAnimationUpdate"
+			],
+			[
+				"curre",
+				"currentWeapon"
+			],
+			[
+				"subm",
+				"subMenuClose"
+			],
+			[
+				"addSub",
+				"addSubMenuButtons"
+			],
+			[
+				"fi",
+				"figureStandZones"
+			],
+			[
+				"Jump",
+				"JumpDownRight"
+			],
+			[
+				"JumpDown",
+				"JumpDownLeft"
+			],
+			[
+				"JU",
+				"JumpUp"
+			],
+			[
+				"RUn",
+				"RunUp"
+			],
+			[
+				"curret",
+				"currentWeapon"
+			],
+			[
+				"SOl",
+				"Soldier"
+			],
+			[
+				"RIG",
+				"RIGHT_DOWN"
+			],
+			[
+				"skull",
+				"skull_red"
+			],
+			[
+				"YOU",
+				"YOU_LOST"
+			],
+			[
+				"uncon",
+				"unconscious"
+			],
+			[
+				"Sold",
+				"SoldierDefinitions"
+			],
+			[
+				"stun",
+				"stunned"
+			],
+			[
+				"weapons",
+				"allWeapons"
+			],
+			[
+				"T",
+				"TOTALLY_EXHAUSTED"
+			],
+			[
+				"SOld",
+				"SoldierDefinitions"
+			],
+			[
+				"ROOF",
+				"ROOF_HIGH"
+			],
+			[
+				"GRID",
+				"GRID_SIZE"
+			],
+			[
+				"currn",
+				"currentPlayerIndex"
+			],
+			[
+				"oppon",
+				"opponentOf"
+			],
+			[
+				"guard",
+				"guard_yellow"
+			],
+			[
+				"figu",
+				"figureCrouch"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/sys/SignalList.js",
+			"settings":
+			{
+				"buffer_size": 3936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/game/house.js",
+			"settings":
+			{
+				"buffer_size": 4097,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sys/BubbleSystemDisplay.js",
+			"settings":
+			{
+				"buffer_size": 10276,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sys/Signals.js",
+			"settings":
+			{
+				"buffer_size": 5005,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/game/space_invaders.js",
+			"settings":
+			{
+				"buffer_size": 1771,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/game/bomb.js",
+			"settings":
+			{
+				"buffer_size": 2149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sys/Wires.js",
+			"settings":
+			{
+				"buffer_size": 4784,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/game/bullet.js",
+			"settings":
+			{
+				"buffer_size": 1952,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 290.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"jsl",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/wamp64/www/bubble coding/invaders",
+		"/E/wamp64/www/bubble coding/invaders/src",
+		"/E/wamp64/www/bubble coding/invaders/src/game",
+		"/E/wamp64/www/bubble coding/invaders/src/sys"
+	],
+	"file_history":
+	[
+		"/D/install/driver/gdi/32_64/BRPRI13I.INF",
+		"/C/wamp/www/bubbles/invaders/src/game/saucer.js",
+		"/C/wamp/www/bubbles/invaders/src/game/invaders.js",
+		"/C/wamp/www/bubbles/invaders/src/game/invader.js",
+		"/C/wamp/www/bubbles/invaders/src/game/houses.js",
+		"/C/wamp/www/bubbles/invaders/src/util/Ticker.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Bubble.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/BubbleDraw.js",
+		"/C/Users/Pete/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/bubbles/invaders/index.html",
+		"/C/wamp/www/bubbles/invaders/src/game/preloader.js",
+		"/C/wamp/www/bubbles/invaders/src/game/space_invaders.js",
+		"/C/wamp/www/bubbles/invaders/src/game/bombs.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Signals.js",
+		"/C/wamp/www/bubbles/invaders/src/game/bomb.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/BubbleSystemDisplay.js",
+		"/C/wamp/www/bubbles/invaders/src/util/Canvas.js",
+		"/C/wamp/www/bubbles/invaders/src/game/house.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/SignalList.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Wires.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Wire.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/WireGrid.js",
+		"/C/wamp/www/bubbles/invaders/src/util/Keys.js",
+		"/C/wamp/www/bubbles/invaders/src/util/JsExtend.js",
+		"/C/wamp/www/bubbles/invaders/src/game/player.js",
+		"/C/wamp/www/Urban Combat/src/_static/Algorithms.js",
+		"/C/wamp/www/bubbles/invaders/src/game/collider.js",
+		"/C/wamp/www/bubbles/invaders/src/game/bullet.js",
+		"/C/wamp/www/bubbles/invaders/src/util/ArrayExtension.js",
+		"/C/wamp/www/bubbles/invaders/src/game/invader_explosion.js",
+		"/C/wamp/www/bubbles/invaders/src/game/player_explosion.js",
+		"/C/wamp/www/bubbles/invaders/src/game/game.js",
+		"/C/Users/Pete/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/bubbles/invaders/src/sys/Canvas.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Keys.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Ticker.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/JsExtend.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/Textures.js",
+		"/C/wamp/www/alife/bloks/src/world.js",
+		"/C/wamp/www/Urban Combat/src/_managers/Textures.js",
+		"/C/wamp/www/copter/phaser.js",
+		"/C/wamp/www/alife/blokworld_brains/renderer/src/file_handling/pbLoader.js",
+		"/C/wamp/www/_generic canvas game project/src/Game.js",
+		"/C/wamp/www/_generic canvas game project/src/World.js",
+		"/C/wamp/www/_generic canvas dots project/src/dots.js",
+		"/C/wamp/www/Urban Combat/src/_static/Definitions.js",
+		"/C/wamp/www/Urban Combat/src/_static/TileDefs.js",
+		"/C/wamp/www/Urban Combat/src/_menus/FindBattle.js",
+		"/C/wamp/www/Urban Combat/src/_multiplayer/ID_comms.js",
+		"/C/wamp/www/Urban Combat/src/_menus/MainMenu.js",
+		"/C/wamp/www/Urban Combat/src/_menus/UrbanCombat.js",
+		"/C/wamp/www/Urban Combat/src/_game/Game.js",
+		"/C/wamp/www/Urban Combat/src/_troops/Soldier.js",
+		"/C/wamp/www/bubbles/invaders/src/sys/js.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Aimer.js",
+		"/C/wamp/www/Urban Combat/src/_menus/Preloader.js",
+		"/C/wamp/www/bubbles/invaders/src/game/player - Copy (4).js",
+		"/C/wamp/www/Urban Combat/src/_helpers/FontLoaded.js",
+		"/C/wamp/www/Urban Combat/src/js.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Button.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Mouse.js",
+		"/C/wamp/www/Urban Combat/src/_db/Weapon.js",
+		"/C/wamp/www/Urban Combat/src/_ui/UserInterface.js",
+		"/C/wamp/www/Urban Combat/src/_menus/RewardsDialog.js",
+		"/C/wamp/www/Urban Combat/src/_ui/BigMessages.js",
+		"/C/wamp/www/Urban Combat/src/_menus/TopInfoBar.js",
+		"/C/wamp/www/Urban Combat/src/_ui/TurnOptions.js",
+		"/C/wamp/www/Urban Combat/src/_menus/TeamSelection.js",
+		"/C/wamp/www/Urban Combat/src/_troops/Entity.js",
+		"/C/wamp/www/Urban Combat/index.html",
+		"/C/wamp/www/Urban Combat/src/_menus/Titles.js",
+		"/C/wamp/www/Urban Combat/src/_managers/AudioManager.js",
+		"/C/wamp/www/Urban Combat/src/_ui/VisibleEnemies.js",
+		"/C/wamp/www/Urban Combat/src/_managers/Treasures.js",
+		"/C/wamp/www/Urban Combat/src/_helpers/Treasure.js",
+		"/C/wamp/www/Urban Combat/src/_game/World.js",
+		"/C/wamp/www/Urban Combat/src/_db/Equipment.js",
+		"/C/wamp/www/Urban Combat/src/_static/Animations.js",
+		"/C/wamp/www/Urban Combat/src/_managers/AnimationManager.js",
+		"/C/wamp/www/Urban Combat/src/_troops/Player.js",
+		"/C/wamp/www/Urban Combat/src/_ui/TeamDisplay.js",
+		"/C/wamp/www/Urban Combat/src/_ui/TimerDisplay.js",
+		"/C/wamp/www/Urban Combat/src/_ui/MouseDetector.js",
+		"/C/wamp/www/Urban Combat/src/_helpers/Sprite.js",
+		"/C/wamp/www/Urban Combat/src/_menus/LockerRoom.js",
+		"/C/wamp/www/Urban Combat/src/_menus/Shop.js",
+		"/C/wamp/www/Urban Combat/src/LockerRoom_backup.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Camera.js",
+		"/C/Users/Pete/Desktop/Signals.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Texts.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Buttons.js",
+		"/C/wamp/www/Urban Combat/src/_menus/FullScreenPopup.js",
+		"/C/wamp/www/Urban Combat/src/_menus/FullScreenDialog.js",
+		"/C/wamp/www/Urban Combat/src/_db/Armour.js",
+		"/C/wamp/www/Urban Combat/src/_ui/MuteButtons.js",
+		"/C/wamp/www/Urban Combat/src/_ui/Reticle.js",
+		"/C/wamp/www/Urban Combat/src/_ui/DragDrop.js",
+		"/C/wamp/www/Urban Combat/src/_helpers/Lees.js",
+		"/C/wamp/www/Urban Combat/src/_helpers/Trajectory.js",
+		"/C/wamp/www/Urban Combat/src/_ui/TextObject.js",
+		"/C/wamp/www/Urban Combat/_docs/ui preliminary.txt",
+		"/C/wamp/www/Urban Combat/src/_menus/Credits.js",
+		"/C/wamp/www/Urban Combat/src/_menus/Login.js",
+		"/C/wamp/www/Urban Combat/_raw/ui/credits/bg.png",
+		"/E/Flash Backups/insanehero full website/insanehero/mygames/NightDrivin/index.html",
+		"/E/Flash Backups/insanehero full website/insanehero/index.html",
+		"/E/Flash Backups/insanehero full website/insanehero/style.css",
+		"/E/Flash Backups/insanehero full website/insanehero/index1.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/www/Urban Combat/images/ui/team_selection/03.png",
+		"/C/wamp/www/Urban Combat/src/_menus/HomeMenu.js",
+		"/C/wamp/www/Urban Combat/src/_managers/Projectiles.js",
+		"/C/wamp/www/Urban Combat/src/_helpers/Projectile.js",
+		"/C/wamp/www/Urban Combat/src/_ui/SoldierInfoPanel.js",
+		"/C/wamp/www/Urban Combat/src/start.js",
+		"/E/_www synctoy/Urban Combat/src/_menus/UrbanCombat.js",
+		"/C/wamp/www/Urban Combat/src/_helpers/Particle.js",
+		"/C/wamp/www/Urban Combat/src/ID_multiplayer.js_",
+		"/C/wamp/www/Urban Combat/images/sprites/soldier01/celebrate.png",
+		"/C/wamp/www/Urban Combat/src/_static/Static.js",
+		"/C/wamp/www/Urban Combat/lib/Thumbs.min.js",
+		"/C/wamp/www/Urban Combat/lib/howler.js",
+		"/C/wamp/www/multi_dim/index.html",
+		"/C/wamp/www/multi_dim/lib/Shifty.min.js",
+		"/C/wamp/www/Urban Combat/src/junk.js",
+		"/C/wamp/www/Urban Combat/index1.html",
+		"/C/wamp/www/Urban Combat/src/_menus/GameWon.js",
+		"/C/wamp/www/phaser_render/renderer/src/logical_sprites/pbSprite.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 191.0,
+		"where_history":
+		[
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.map,-*.min.js,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,C:\\wamp\\www, -*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,C:\\wamp\\www",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"*.*",
+			"*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"*.js,-*.min.js,-\\build\\*.*",
+			"*.js,-*.min.js,-\\build",
+			"*.js,-*.min.js,-/custom",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.js.min",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map,-*.js.min",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.map",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"*.js,-*.min.js",
+			"*.js",
+			"*.js;-*.min.js",
+			"*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib,-*.html,-*.txt,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib,-*.html,-*.txt,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib,-*.html,-*.txt,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib,-*.html,-*.txt,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib,-*.html,-*.txt,-*.min.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib,-*.html,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-\\lib",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.zip,-*.eot,-*.log,-*.jpg,-*.ttf,-*.jar,-*.swf,-*.png,-*.pdf,-*.jpeg,-*.tga,-*.gif,-*.ico,-*.dds",
+			"-*.jpeg,-*.eot,-*.zip,-*.ico,-*.png,-*.ttf,-*.swf,-*.jar,-*.jpg,-*.gif,-*.log,-*.dds,-*.tga,-*.pdf",
+			"-*.eot,-*.ico,-*.log,-*.zip,-*.jpg,-*.jar,-*.gif,-*.png,-*.dds,-*.tga,-*.swf,-*.jpeg,-*.ttf,-*.pdf",
+			"-*.dds,-*.jar,-*.eot,-*.png,-*.ttf,-*.zip,-*.jpg,-*.pdf,-*.log,-*.ico,-*.gif,-*.swf,-*.tga,-*.jpeg",
+			"-*.log,-*.gif,-*.zip,-*.dds,-*.png,-*.jar,-*.jpg,-*.eot,-*.tga,-*.ico,-*.pdf,-*.jpeg,-*.swf,-*.ttf",
+			"-*.eot,-*.tga,-*.gif,-*.png,-*.ttf,-*.pdf,-*.zip,-*.ico,-*.log,-*.jpg,-*.swf,-*.jar,-*.jpeg,-*.dds",
+			"-*.png,-*.dds,-*.jar,-*.jpg,-*.gif,-*.zip,-*.eot,-*.ico,-*.log,-*.pdf,-*.swf,-*.jpeg,-*.ttf,-*.tga",
+			"-*.gif,-*.dds,-*.eot,-*.tga,-*.ttf,-*.jpeg,-*.swf,-*.jpg,-*.pdf,-*.jar,-*.png,-*.log,-*.ico,-*.zip",
+			"-*.log,-*.ico,-*.eot,-*.zip,-*.jpeg,-*.pdf,-*.png,-*.swf,-*.jar,-*.ttf,-*.jpg,-*.gif,-*.tga,-*.dds",
+			"-*.swf,-*.jpeg,-*.log,-*.ttf,-*.eot,-*.tga,-*.png,-*.dds,-*.pdf,-*.jpg,-*.jar,-*.gif,-*.zip,-*.ico",
+			"-*.ico,-*.jar,-*.swf,-*.pdf,-*.zip,-*.ttf,-*.jpeg,-*.gif,-*.png,-*.eot,-*.dds,-*.log,-*.jpg,-*.tga",
+			"-*.jpg,-*.jar,-*.png,-*.dds,-*.zip,-*.ico,-*.gif,-*.ttf,-*.swf,-*.log,-*.pdf,-*.jpeg,-*.tga,-*.eot",
+			"-*.png,-*.swf,-*.jpeg,-*.pdf,-*.jpg,-*.jar,-*.ttf,-*.eot,-*.log,-*.zip,-*.ico,-*.dds,-*.gif,-*.tga",
+			"-*.zip,-*.log,-*.ico,-*.jpeg,-*.dds,-*.swf,-*.jpg,-*.jar,-*.tga,-*.gif,-*.eot,-*.pdf,-*.png,-*.ttf",
+			"-*.ttf,-*.zip,-*.pdf,-*.swf,-*.gif,-*.jar,-*.jpg,-*.dds,-*.ico,-*.log,-*.png,-*.eot,-*.jpeg,-*.tga",
+			"-*.ico,-*.gif,-*.zip,-*.dds,-*.log,-*.tga,-*.jpeg,-*.jar,-*.swf,-*.png,-*.eot,-*.pdf,-*.jpg,-*.ttf",
+			"-*.gif,-*.jar,-*.swf,-*.pdf,-*.ttf,-*.zip,-*.tga,-*.jpeg,-*.log,-*.ico,-*.eot,-*.png,-*.dds,-*.jpg",
+			"",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/,C:\\wamp\\www\\phaser_render\\renderer\\src",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/,C:\\wamp\\www\\phaser_render\\renderer\\srccr",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/,C:\\wamp\\www\\phaser_examples\\examples",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"C:\\wamp\\www\\phaser_sans_pixi;-\"/build\"",
+			"C:\\wamp\\www\\phaser_sans_pixi;-/build",
+			"C:\\wamp\\www\\phaser_sans_pixi",
+			"",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"renderer/,-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"/renderer,-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"renderer -*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"",
+			"C:\\wamp\\www\\phaser_sans_pixi\\src\\gameobjects\\components",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/,../../../phaser/src",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/,../../../phaser/src",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/,../../../phaser/src",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,-build/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,../../../phaser/src",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/,../phaser/src",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/,-docgen/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/,-tasks/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/,-lib/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node_modules/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/,-node-modules/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-*.md,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-dist/,-docs/,-yuidocjs/,-resources/,-typescript/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-dist/,-docs/,-yuidocjs/,-resources/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-dist/,-docs/,-yuidocjs/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-dist/,-docs/,-yuidocs/",
+			"-*.map,-*.json,-*.txt,-*.min.js,-dist/,-docs/",
+			"-*.map,-*.json,-*.min.js,-dist/,-*.txt",
+			"-*.map,-*.json,-dist/,-*.txt",
+			"-*.map,-*.json,-dist/",
+			"-*.map,-*.json,-/dist",
+			"-*.map,-*.json,-\\dist",
+			"-*.map,-*.json,-dist",
+			"-*.map,-*.json",
+			"-*.map,C:\\wamp\\www\\phaser_sans_pixi\\src\\renderer",
+			"-*.map",
+			"",
+			"C:\\wamp\\www\\phaser_render\\renderer\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"addWire",
+			"dispatch",
+			"F5",
+			"bullet_fired",
+			"bullet_shoot",
+			"findListenersByKey",
+			"findBubbleByName",
+			"Preloader",
+			"\"tick\"",
+			"bubbledrawtick",
+			"start_timer",
+			"canvas",
+			"new spaceinvaders",
+			"bubbledrawtick",
+			"pauseGame",
+			"new ",
+			"drag",
+			"mouse",
+			"wiregrid",
+			"randRange",
+			"bubbleList",
+			"distance",
+			"bp",
+			"this.ctx",
+			"BubbleDraw",
+			"wiregrid",
+			"findMarker",
+			"bubble.name",
+			"bubbleList",
+			"findListenersByKey",
+			"findBubbleByName",
+			"pauseGame",
+			"bubbledrawtick",
+			"BubbleExtend",
+			"new ",
+			".font",
+			"ctx.",
+			"ctx.clear",
+			"lineTo",
+			"colourList",
+			"colour",
+			"array",
+			"dispatch",
+			"player_dead",
+			"name",
+			"colourList",
+			"mousedown",
+			"cursor",
+			"style.cursor",
+			"ctx",
+			"drag",
+			"tp",
+			"fp",
+			"circle",
+			"radius",
+			"circle",
+			"radius",
+			"regionCircle",
+			"radius",
+			"sav",
+			".x =",
+			"drag",
+			"arc",
+			"wires",
+			"cellWide",
+			"256",
+			"random",
+			".x = Math",
+			"regionCircle",
+			"gx",
+			"floor",
+			"localstorage",
+			"localStorage",
+			"local",
+			"new WireGrid",
+			"cellWide",
+			"fillText",
+			"randint",
+			"findMarker",
+			"saved",
+			"localStorage",
+			"256",
+			"800",
+			"move",
+			"invader_",
+			"invader_move",
+			"collision_",
+			"collision",
+			"collider",
+			"strokeStyle",
+			"dispatchList",
+			"this.bubbles",
+			"data",
+			"restartGame",
+			"path",
+			"findPath",
+			"canvas",
+			".draw",
+			"canvas",
+			"ctx",
+			"start_timer",
+			"new bombs",
+			"canvas",
+			"BubbleDraw",
+			"getPathPoints",
+			".draw",
+			"indexOf",
+			"grid",
+			"this.grid",
+			"addList",
+			"/",
+			".r",
+			"b1",
+			"    ",
+			"tab",
+			"indent",
+			"listFunction",
+			"Signals.dispatch",
+			"activate",
+			"new bomb",
+			"chain",
+			"BubbleExtend",
+			"Signals.add",
+			"Signals.deactivate",
+			"Signals.remove",
+			"remove",
+			"activate",
+			".active"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bullet_fired",
+			"preloader",
+			"loc",
+			"_ctx",
+			"BubbleSystemDisplay",
+			"this.data",
+			"wireGrid",
+			"listenerList",
+			"_p",
+			"\\t",
+			"\\t\\t",
+			"findSignalsInFunction",
+			"activeList",
+			"_bubble",
+			"this.data",
+			"Bubble",
+			"invader_explosion",
+			"this.data",
+			"bomb",
+			"bombs",
+			"saucer.data",
+			".",
+			"saucer",
+			"this.data",
+			"invaders",
+			".data.image",
+			".data.visible",
+			"data.image.",
+			"data.",
+			"_msg",
+			"Signals.",
+			"gridSelect",
+			"s",
+			"VisibleEnemies",
+			"findSoldierByCharacterIndex",
+			"this.userInterface.selectedSoldier()",
+			"this.userInterface.selectedSoldier",
+			"iconsNormal",
+			"TeamDisplay",
+			"this.parent",
+			"TimerDisplay",
+			"detail",
+			",",
+			"RewardsDialog",
+			"_zoneTo",
+			"_zoneFrom",
+			"hoverWeapon",
+			"clickWeapon",
+			"iconData",
+			"weapon",
+			"this.player.spareEquipment",
+			"drawBags",
+			"false, true, ",
+			"font2",
+			"cccc8c",
+			"font3",
+			"tx",
+			"Credits",
+			"SAVE_AND_WAIT",
+			"drawArmour",
+			"stats",
+			"TeamSelection",
+			"\"selector_green\"",
+			"lastListenerContinue",
+			"this.mouseDetector.destroy();",
+			"mouse.",
+			"mouse",
+			"clientY",
+			"clientX",
+			"equipIconLayout",
+			"drawIcons",
+			"equipScrollY",
+			"selectedItem",
+			"infoPanel",
+			"LockerRoom",
+			"showDetails",
+			".text = \"\";",
+			"interval: 20 * ",
+			"interval:",
+			"20 * ",
+			"frameDelay: 16 * ",
+			" * 16 }",
+			"frameDelay",
+			"addDamageMessage",
+			"",
+			"rifle",
+			"bazooka",
+			"shotgun",
+			"this.glow",
+			"Treasures",
+			"Treasure",
+			"soldier02",
+			"/soldier01/",
+			"lastListener",
+			"TextFloaters",
+			"forceTop",
+			"rifle",
+			"_this",
+			"clickBack",
+			"clickModify",
+			"clickReRoll",
+			"TeamSelection",
+			"this.game.root",
+			"FullScreenDialog",
+			"this.mouse.mousePos.y",
+			"this.mouse.mousePos.x",
+			"dispatchSignal",
+			"findPlayerByName",
+			"0.30",
+			"",
+			"e",
+			"s",
+			"mod",
+			"this",
+			"crit: 0,",
+			"hideTurnOptions",
+			"showProjectilePath",
+			"6.4",
+			"5.6 * 2",
+			"6.4",
+			"12.8",
+			" y: -",
+			"setPlayer",
+			"Stand",
+			"GameAborted",
+			"BeamWebGlTextures",
+			"BeamSurface",
+			"BeamCanvasPool"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/sys/SignalList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								872,
+								872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/game/house.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/sys/BubbleSystemDisplay.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4995,
+								4995
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3773.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/sys/Signals.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2752,
+								2764
+							]
+						],
+						"settings":
+						{
+							"SL.40.region_keys":
+							[
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/game/space_invaders.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"SL.35.region_keys":
+							[
+							],
+							"SL.38.region_keys":
+							[
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/game/bomb.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"SL.39.region_keys":
+							[
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2070.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/sys/Wires.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								945,
+								952
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/game/bullet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 405.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "invaders.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

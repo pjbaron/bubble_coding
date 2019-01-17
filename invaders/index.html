@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- request GPU rasterization from Chrome browsers, where available -->
+    <!--meta name="viewport" content="width=device-width, minimum-scale=1.0"-->
+    <!-- prevent scaling http://www.html5rocks.com/en/mobile/touchandmouse/ -->
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <!-- test IE11 in IE10 mode -->
+	<!-- meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/-->
+    <meta charset="utf-8" />
+    <title>Invaders (Bubbles)</title>
+    <style type>
+        body, html
+        {
+            margin: 0;
+            padding: 0;
+            background: #112;
+            border: none;
+            overflow: hidden;
+
+            user-select: none;
+            -moz-user_select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+
+            /* force chrome to refresh - attempt to fix font bug */
+            /* -webkit-animation-duration: 0.1s;
+            -webkit-animation-name: fontfix;
+            -webkit-animation-iteration-count: 1;
+            -webkit-animation-timing-function: linear;
+            -webkit-animation-delay: 1.1s; */
+        }
+
+        @-webkit-keyframes fontfix {
+          from { opacity: 1; }
+          to { opacity: 1; }
+        }
+    </style>
+
+
+    <!-- libraries -->
+    <script type="text/javascript" src="src/lib/stats.js"></script>
+
+    <!-- Bubble system -->
+    <script type="text/javascript" src="src/sys/Bubble.js"></script>
+    <script type="text/javascript" src="src/sys/BubbleDraw.js"></script>
+    <script type="text/javascript" src="src/sys/BubbleSystemDisplay.js"></script>
+    <script type="text/javascript" src="src/sys/Signals.js"></script>
+    <script type="text/javascript" src="src/sys/SignalList.js"></script>
+    <script type="text/javascript" src="src/sys/Wire.js"></script>
+    <script type="text/javascript" src="src/sys/Wires.js"></script>
+
+    <!-- utility -->
+    <script type="text/javascript" src="src/util/ArrayExtension.js"></script>
+    <script type="text/javascript" src="src/util/Canvas.js"></script>
+    <script type="text/javascript" src="src/util/JsExtend.js"></script>
+    <script type="text/javascript" src="src/util/Keys.js"></script>
+    <script type="text/javascript" src="src/util/Textures.js"></script>
+    <script type="text/javascript" src="src/util/Ticker.js"></script>
+
+    <!-- bubbles -->
+    <script type="text/javascript" src="src/game/preloader.js"></script>
+    <script type="text/javascript" src="src/game/space_invaders.js"></script>
+    <script type="text/javascript" src="src/game/bomb.js"></script>
+    <script type="text/javascript" src="src/game/bombs.js"></script>
+    <script type="text/javascript" src="src/game/bullet.js"></script>
+    <script type="text/javascript" src="src/game/collider.js"></script>
+    <script type="text/javascript" src="src/game/house.js"></script>
+    <script type="text/javascript" src="src/game/houses.js"></script>
+    <script type="text/javascript" src="src/game/invader.js"></script>
+    <script type="text/javascript" src="src/game/invader_explosion.js"></script>
+    <script type="text/javascript" src="src/game/invaders.js"></script>
+    <script type="text/javascript" src="src/game/player.js"></script>
+    <script type="text/javascript" src="src/game/player_explosion.js"></script>
+    <script type="text/javascript" src="src/game/saucer.js"></script>
+
+</head>
+
+<body>
+
+    <!-- system set up -->
+    <script type="text/javascript">
+
+    // http://stackoverflow.com/questions/9038625/detect-if-device-is-ios
+    var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    window.width = window.innerWidth;
+    window.height = window.innerHeight;
+
+    // fps counter
+    var stats = new Stats();
+    stats.setMode( 0 );
+    stats.domElement.style.position = 'absolute';
+    stats.domElement.style.right = width;
+    stats.domElement.style.bottom = height;
+    document.body.appendChild( stats.domElement );
+
+    new space_invaders();
+
+    var b = new BubbleSystemDisplay( this );
+    b.create();
+    b.draw();
+
+    // update the BubbleSystemDisplay object every tick
+    Signals.add( "system_tick", b.update, b, undefined, true );
+
+    </script>
+
+</body>
+
+</html>
