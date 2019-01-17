@@ -60,7 +60,7 @@ Contents:
 │    ├── sfx - audio in .WAV format
 │    ├── src - JavaScript for the environment and the demo
 │    ├── game - the game files coded and marked-up for bubble coding
-│	 ├── lib - libraries used by the game and/or system
-│	 └── sys - the bubble coding system files including GUI display and the bubble implementation
+│    ├── lib - libraries used by the game and/or system
+│    └── sys - the bubble coding system files including GUI display and the bubble implementation
 └─────── util - useful static classes for building games or bubbles
 ```
